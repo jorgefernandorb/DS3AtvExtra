@@ -1,0 +1,2 @@
+1> Clonado o repositório do GitHub
+2> Criado a branch dev e escrito nela
