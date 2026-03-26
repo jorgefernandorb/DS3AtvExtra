@@ -2,3 +2,6 @@
 2> Criado a branch dev e escrito nela
 3> Dev3: terminou sua demanda
 4> Dev3: fez mais coisas
+5> Dev2: fez sua demanda
+6> Dev1 feito a demanda
+
