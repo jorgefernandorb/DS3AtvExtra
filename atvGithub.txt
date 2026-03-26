@@ -1,3 +1,5 @@
 1> Clonado o repositório do GitHub
 2> Criado a branch dev e escrito nela
 3> Dev2: fez sua demanda
+4> Dev1 feito a demanda
+
